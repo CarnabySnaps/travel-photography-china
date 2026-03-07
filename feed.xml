@@ -3,7 +3,7 @@
     <title>Travel Photography China</title>
     <link href="https://CarnabySnaps.github.io/travel-photography-china/feed.xml" rel="self" />
     <link href="https://CarnabySnaps.github.io/travel-photography-china" />
-    <updated>2026-02-28T23:43:44+00:00</updated>
+    <updated>2026-03-07T23:06:43+00:00</updated>
     <author>
         <name>Mark Carnaby</name>
     </author>
@@ -56,6 +56,7 @@
         <id>https://CarnabySnaps.github.io/travel-photography-china/the-chinese-adventure-2014-hong-kong-part-two/</id>
         <media:content url="https://CarnabySnaps.github.io/travel-photography-china/media/posts/38/China-Trip-2014-Hong-Kong-1-52.webp" medium="image" />
             <category term="The Chinese Adventure 2014"/>
+            <category term="Hong Kong"/>
 
         <updated>2026-02-28T23:27:07+00:00</updated>
             <summary>
@@ -128,6 +129,7 @@
         <id>https://CarnabySnaps.github.io/travel-photography-china/the-chinese-adventure-2014-hong-kong-part-one/</id>
         <media:content url="https://CarnabySnaps.github.io/travel-photography-china/media/posts/37/China-Trip-2014-Hong-Kong-1-8.webp" medium="image" />
             <category term="The Chinese Adventure 2014"/>
+            <category term="Hong Kong"/>
 
         <updated>2026-02-28T23:21:48+00:00</updated>
             <summary>
@@ -200,6 +202,7 @@
         <link href="https://CarnabySnaps.github.io/travel-photography-china/the-chinese-adventure-2014-yangshuo-county/"/>
         <id>https://CarnabySnaps.github.io/travel-photography-china/the-chinese-adventure-2014-yangshuo-county/</id>
         <media:content url="https://CarnabySnaps.github.io/travel-photography-china/media/posts/36/China-Trip-2014-Yangshuo-1-59.webp" medium="image" />
+            <category term="Yangshuo County"/>
             <category term="The Chinese Adventure 2014"/>
 
         <updated>2026-02-28T21:15:56+00:00</updated>
@@ -336,6 +339,7 @@
         <id>https://CarnabySnaps.github.io/travel-photography-china/the-chinese-adventure-2014-chengdu-part-two/</id>
         <media:content url="https://CarnabySnaps.github.io/travel-photography-china/media/posts/35/China-Trip-2014-Chengdu-1-175.webp" medium="image" />
             <category term="The Chinese Adventure 2014"/>
+            <category term="Chengdu"/>
 
         <updated>2026-02-16T00:14:08+00:00</updated>
             <summary>
@@ -485,6 +489,7 @@
         <id>https://CarnabySnaps.github.io/travel-photography-china/the-chinese-adventure-2014-chengdu-part-one/</id>
         <media:content url="https://CarnabySnaps.github.io/travel-photography-china/media/posts/34/China-Trip-2014-Chengdu-1-104.webp" medium="image" />
             <category term="The Chinese Adventure 2014"/>
+            <category term="Chengdu"/>
 
         <updated>2026-02-15T23:21:52+00:00</updated>
             <summary>
@@ -586,6 +591,7 @@
         <id>https://CarnabySnaps.github.io/travel-photography-china/the-chinese-adventure-2014-leshan/</id>
         <media:content url="https://CarnabySnaps.github.io/travel-photography-china/media/posts/33/China-Trip-2014-Chengdu-1-10.webp" medium="image" />
             <category term="The Chinese Adventure 2014"/>
+            <category term="Leshan"/>
 
         <updated>2026-02-15T23:07:03+00:00</updated>
             <summary>
@@ -673,6 +679,7 @@
         <id>https://CarnabySnaps.github.io/travel-photography-china/the-chinese-adventure-2014-jiuzhaigou-and-huanglong/</id>
         <media:content url="https://CarnabySnaps.github.io/travel-photography-china/media/posts/32/China-Trip-2014-Jiuzhaigou-1-72.webp" medium="image" />
             <category term="The Chinese Adventure 2014"/>
+            <category term="Jiuzhaigou and Huanglong"/>
 
         <updated>2026-02-15T00:49:20+00:00</updated>
             <summary>
@@ -837,6 +844,7 @@
         <link href="https://CarnabySnaps.github.io/travel-photography-china/the-chinese-adventure-2014-xian/"/>
         <id>https://CarnabySnaps.github.io/travel-photography-china/the-chinese-adventure-2014-xian/</id>
         <media:content url="https://CarnabySnaps.github.io/travel-photography-china/media/posts/31/China-Trip-2014-Xian-1-8.webp" medium="image" />
+            <category term="Xi&#x27;an"/>
             <category term="The Chinese Adventure 2014"/>
 
         <updated>2026-02-15T00:33:30+00:00</updated>
@@ -940,6 +948,7 @@
         <id>https://CarnabySnaps.github.io/travel-photography-china/the-chinese-adventure-2014-pingyao/</id>
         <media:content url="https://CarnabySnaps.github.io/travel-photography-china/media/posts/29/China-Trip-2014-Pingyao-1-95.webp" medium="image" />
             <category term="The Chinese Adventure 2014"/>
+            <category term="Pingyao"/>
 
         <updated>2026-02-14T22:30:39+00:00</updated>
             <summary>
