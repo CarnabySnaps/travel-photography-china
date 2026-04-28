@@ -112,7 +112,7 @@
     {
         "path": "/authors/mark-carnaby/index.html",
         "type": "file",
-        "md5": "03c7f1411620d443a4111b17ed83a31d"
+        "md5": "42693abfd1ee6b661842134527981435"
     },
     {
         "path": "china-2014the-chinese-adventure-beijing-part-two",
@@ -122,22 +122,22 @@
     {
         "path": "/china-2014the-chinese-adventure-beijing-part-two/index.html",
         "type": "file",
-        "md5": "63eb772f336ed2a9fd63df4cc0cfa1b9"
+        "md5": "c0d4b4ad4ef3000ba06f976eddb4f0e1"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "97cb4d4f79785faef4106fbff38e47ce"
+        "md5": "f5f58792673b7e55d4e12e45d846b756"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "49a22efa891655170ae256a25174f596"
+        "md5": "328b4c2d7b354c5afb3a37443c34f35b"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "c5f37a6542d6bf27d87b9cf6422a88d8"
+        "md5": "82278f5bf8b7af2c9f1914a9bc674cde"
     },
     {
         "path": "media",
@@ -11772,7 +11772,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "4c773089c029986172ef948cfa0e296c"
+        "md5": "01b1c5aa7c04b924fbdcbf9ea669b5d2"
     },
     {
         "path": "robots.txt",
@@ -11782,7 +11782,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f3de3f667819ae68e00dcb968282d71f"
+        "md5": "3a062485845a13d846a7a4f0d7e36e15"
     },
     {
         "path": "sitemap.xsl",
@@ -11877,7 +11877,7 @@
     {
         "path": "/tags/the-chinese-adventure-2014/index.html",
         "type": "file",
-        "md5": "e5f64652c0edd2ec081171ea5eb79a20"
+        "md5": "81ff24c751069c4d0ae6d13a38a2dc1c"
     },
     {
         "path": "tags/xian",
@@ -11917,7 +11917,7 @@
     {
         "path": "/the-chinese-adventure-2014-beijing-part-one/index.html",
         "type": "file",
-        "md5": "a949f4ee5f7a03981bef5f68df8e072b"
+        "md5": "4d19f6eb09f5db6b02471946d4b6f141"
     },
     {
         "path": "the-chinese-adventure-2014-chengdu-part-one",
@@ -11987,7 +11987,7 @@
     {
         "path": "/the-chinese-adventure-2014-pingyao/index.html",
         "type": "file",
-        "md5": "c371ed83eb3bf045933b7fe212eeee47"
+        "md5": "c84c9d4a0ce30953df3f2e0946cf514c"
     },
     {
         "path": "the-chinese-adventure-2014-shanghai",
@@ -11997,7 +11997,7 @@
     {
         "path": "/the-chinese-adventure-2014-shanghai/index.html",
         "type": "file",
-        "md5": "8f8e0239726984efae6945673e75a720"
+        "md5": "81b61a4c694301ccc242624972725ec2"
     },
     {
         "path": "the-chinese-adventure-2014-xian",
