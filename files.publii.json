@@ -127,12 +127,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "3cc3a0a53cbaeb998ca6564a9430bfe9"
+        "md5": "45c6319f499b16716eebf43f17c13ba4"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "03cea7415b6721c22e2255f868da2337"
+        "md5": "6a3ac4b0e99ef7dd593ccdd0d8b00766"
     },
     {
         "path": "index.html",
@@ -11010,6 +11010,16 @@
         "md5": "a88a380084e3a9edfc18998cf34285d8"
     },
     {
+        "path": "/media/posts/37/gallery/Hong-Kong-1-thumbnail.webp",
+        "type": "file",
+        "md5": "2218e3aeb675b6e06149c8911dba3f83"
+    },
+    {
+        "path": "/media/posts/37/gallery/Hong-Kong-1.webp",
+        "type": "file",
+        "md5": "43bc7326674337ce3bcc73c237637254"
+    },
+    {
         "path": "media/posts/37/responsive",
         "type": "directory",
         "md5": false
@@ -11862,7 +11872,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "5fe3f21336f9c48c2bb7c62c2904637b"
+        "md5": "57f6e1eac0c0f0b3c8b79c29a3200afa"
     },
     {
         "path": "sitemap.xsl",
@@ -12027,7 +12037,7 @@
     {
         "path": "/the-chinese-adventure-2014-hong-kong-part-one/index.html",
         "type": "file",
-        "md5": "e8de95f315027e953b107343247793bd"
+        "md5": "516328b0d7e2e52f3ac465877d90d65b"
     },
     {
         "path": "the-chinese-adventure-2014-hong-kong-part-two",
